@@ -6,6 +6,7 @@ A way to contact servers protected by port knocking
 Simply download this git directory.
 
 In your ~/.bashrc file (or ~/.zshrc file), add :
+
 `
 alias sshopen="/path/to/directory/sshopen.sh"
 
