@@ -8,6 +8,7 @@ Simply download this git directory.
 In your ~/.bashrc file (or ~/.zshrc file), add :
 `
 alias sshopen="/path/to/directory/sshopen.sh"
+
 alias sshclose="/path/to/directory/sshclose.sh"
 `
 
